@@ -1,0 +1,4 @@
+interface:
+  display_name: "dcfanki"
+  short_description: "戴春峰系列笔记局部制卡，先确认章节范围，再生成三类纯净 Anki 卡包"
+  default_prompt: "使用 $dcfanki 把戴春峰系列笔记 PDF 的指定章节转成 Anki；先向我确认章节与页码边界，再生成无标题卡、无标签和无脚注的 .apkg。"
